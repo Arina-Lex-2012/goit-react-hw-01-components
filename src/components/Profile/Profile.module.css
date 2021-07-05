@@ -1,0 +1,23 @@
+.profile {
+  display: block;
+  width: 200px;
+  text-align: center;
+  color: #191970;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 20px;
+}
+
+.name {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.stats {
+  list-style: none;
+  padding: 10px 0px 0px 0px;
+  border-top: solid 1px #191970;
+}
+
+.label {
+  margin-right: 10px;
+}
